@@ -48,7 +48,7 @@ def takeCommand():
 
     except Exception as e:
         # print(e)
-        print("Say that again please...")
+        print("Please Repeat Sir!")
         return "None"
     return query
 
